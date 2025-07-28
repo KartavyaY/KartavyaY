@@ -4,17 +4,11 @@
 <img width="1698" height="400" alt="Image" src="https://github.com/user-attachments/assets/5ab48f3e-dc6b-4db5-96a2-2f3c5bda23d1" />
 </p>
 
-I'm a passionate full-stack developer from [Your City, Country] with a love for building beautiful, functional, and scalable web applications. I enjoy turning complex problems into simple, elegant solutions.
+I'm a passionate full-stack developer from Delhi, India with a love for building beautiful, functional, and scalable web applications. I enjoy turning complex problems into simple, elegant solutions.
 
-🔭 I’m currently working on [Your Current Project or a cool side-project].
+🌱 I’m currently learning various technologies.
 
-🌱 I’m currently learning [A new technology you are exploring, e.g., GraphQL, Docker, Kubernetes].
-
-👯 I’m looking to collaborate on open-source projects related to [Your interests, e.g., FinTech, EdTech, AI].
-
-🤔 I’m looking for help with [A challenge you are facing].
-
-💬 Ask me about React, Node.js, Python, Django, or anything related to web development!
+👯 I’m looking to collaborate on open-source projects related to on MCP and new Age AI developement.
 
 📫 How to reach me: kartavyayadavv@gmail.com or on LinkedIn.
 
@@ -26,37 +20,35 @@ I'm a passionate full-stack developer from [Your City, Country] with a love for 
 Here are some of the technologies I've been working with recently:
 
 Frontend
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Redux-593D88%3Fstyle%3Dfor-the-badge%26logo%3Dredux%26logoColor%3Dwhite" alt="Redux"/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css" />
+  </a>
 </p>
 
 Backend
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask"/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,node,fastapi,py" />
+  </a>
 </p>
 
 Databases
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL"/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  </a>
 </p>
 
 DevOps & Tools
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dvisual%2520studio%2520code%26logoColor%3Dwhite" alt="VS Code"/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,jenkins,vim,postman" />
+  </a>
 </p>
 
 📊 My GitHub Stats
