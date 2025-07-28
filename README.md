@@ -94,7 +94,7 @@ Here are some of the technologies I've been working with recently:
 </tr>
 </table> -->
 
-Connect with me:
+<h3 align="right"> Connect with me: </h3>
 <p align="right">
   <a href="https://linkedin.com/in/kartavyayadav" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartavyayadav" height="30" width="40" />
