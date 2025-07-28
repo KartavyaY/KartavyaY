@@ -1,7 +1,7 @@
 Hi there, I'm Kartavya Yadav 👋
 🚀 Full-Stack Developer | [SpringBoot Specialist]
 <p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/800x200/6366f1/ffffff%3Ftext%3DWelcome%2Bto%2Bmy%2BGitHub%2BProfile!" alt="A banner image for your profile"/>
+<img width="1698" height="400" alt="Image" src="https://github.com/user-attachments/assets/5ab48f3e-dc6b-4db5-96a2-2f3c5bda23d1" />
 </p>
 
 I'm a passionate full-stack developer from [Your City, Country] with a love for building beautiful, functional, and scalable web applications. I enjoy turning complex problems into simple, elegant solutions.
