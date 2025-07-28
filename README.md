@@ -28,7 +28,7 @@ Backend
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,node,fastapi,py" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,py" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ DevOps & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,jenkins,vim,postman" />
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,jenkins,vim,postman,c,java" />
   </a>
 </p>
 
