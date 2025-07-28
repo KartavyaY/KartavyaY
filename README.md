@@ -2,10 +2,10 @@
 <img width="1698" height="400" alt="Image" src="https://github.com/user-attachments/assets/5ab48f3e-dc6b-4db5-96a2-2f3c5bda23d1" />
 </p>
 
-Hi there, I'm Kartavya Yadav 👋
+<h1> Hi there, I'm Kartavya Yadav 👋 </h1>
 Full-Stack Developer | [SpringBoot Specialist]
 
-I'm a passionate full-stack developer from Delhi, India with a love for building beautiful, functional, and scalable web applications. I enjoy turning complex problems into simple, elegant solutions.
+<h4> I'm a passionate full-stack developer from Delhi, India with a love for building beautiful, functional, and scalable web applications. I enjoy turning complex problems into simple, elegant solutions. </h4>
 
 🌱 I’m currently learning various technologies.
 
@@ -26,7 +26,9 @@ Here are some of the technologies I've been working with recently:
   </a>
 </p>
 
-Backend
+<h3 align = "center">
+  Backend
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +36,9 @@ Backend
   </a>
 </p>
 
-Databases
+<h3 align = "center">
+  Databases
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,7 +46,9 @@ Databases
   </a>
 </p>
 
-DevOps & Tools
+<h3 align = "center">
+  DevOps & Tools
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
