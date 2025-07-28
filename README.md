@@ -5,7 +5,8 @@
 <h1 align="center"> Hi there, I'm Kartavya Yadav 👋 </h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<h4 align="center"> I'm a passionate full-stack developer from Delhi, India with a love for building beautiful, functional, and scalable web applications. I enjoy turning complex problems into simple, elegant solutions. </h4>
+<h3 align="center"> I'm a passionate full-stack developer from Delhi, India with a love for building beautiful, functional, and scalable web applications. I enjoy turning complex problems into simple, elegant solutions. </h3>
+
 
 <h3>🌱 I’m currently learning various technologies.</h3>
 
