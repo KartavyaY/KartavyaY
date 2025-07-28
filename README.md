@@ -1,8 +1,9 @@
-#Hi there, I'm Kartavya Yadav 👋
-🚀 Full-Stack Developer | [SpringBoot Specialist]
 <p align="center">
 <img width="1698" height="400" alt="Image" src="https://github.com/user-attachments/assets/5ab48f3e-dc6b-4db5-96a2-2f3c5bda23d1" />
 </p>
+
+Hi there, I'm Kartavya Yadav 👋
+Full-Stack Developer | [SpringBoot Specialist]
 
 I'm a passionate full-stack developer from Delhi, India with a love for building beautiful, functional, and scalable web applications. I enjoy turning complex problems into simple, elegant solutions.
 
@@ -11,10 +12,6 @@ I'm a passionate full-stack developer from Delhi, India with a love for building
 👯 I’m looking to collaborate on open-source projects related to on MCP and new Age AI developement.
 
 📫 How to reach me: kartavyayadavv@gmail.com or on LinkedIn.
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: [A fun fact about you - e.g., I can solve a Rubik's Cube in under a minute!]
 
 🛠️ My Tech Stack
 Here are some of the technologies I've been working with recently:
