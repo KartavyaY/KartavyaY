@@ -1,4 +1,4 @@
-Hi there, I'm Kartavya Yadav 👋
+#Hi there, I'm Kartavya Yadav 👋
 🚀 Full-Stack Developer | [SpringBoot Specialist]
 <p align="center">
 <img width="1698" height="400" alt="Image" src="https://github.com/user-attachments/assets/5ab48f3e-dc6b-4db5-96a2-2f3c5bda23d1" />
