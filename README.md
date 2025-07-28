@@ -48,13 +48,13 @@ DevOps & Tools
   </a>
 </p>
 
-📊 My GitHub Stats
+<!-- 📊 My GitHub Stats
 <p align="center">
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKartavyaY%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKartavyaY%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula"/>
-</p>
+</p> -->
 
-🏆 My Featured Projects
+<!-- 🏆 My Featured Projects
 <table border="0" cellpadding="10">
 <tr>
 <td width="50%">
@@ -84,18 +84,15 @@ DevOps & Tools
 </p>
 </td>
 </tr>
-</table>
+</table> -->
 
 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YOUR_LINKEDIN_USERNAME]" height="30" width="40" />
+  <a href="https://linkedin.com/in/kartavayayadav" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartavyayadav" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/[YOUR_TWITTER_USERNAME]" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YOUR_TWITTER_USERNAME]" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/[YOUR_STACKOVERFLOW_ID]/[YOUR_USERNAME]" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[YOUR_STACKOVERFLOW_USERNAME]" height="30" width="40" />
+  <a href="https://twitter.com/buddyKartavya" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buddyKartavya" height="30" width="40" />
   </a>
   <a href="https://instagram.com/reallykartavya" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reallykartavya" height="30" width="40" />
