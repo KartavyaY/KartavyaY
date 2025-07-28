@@ -16,7 +16,9 @@ I'm a passionate full-stack developer from Delhi, India with a love for building
 🛠️ My Tech Stack
 Here are some of the technologies I've been working with recently:
 
-Frontend
+<h3 align = "center">
+  Frontend
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
