@@ -20,21 +20,22 @@ Here are some of the technologies I've been working with recently:
   Frontend
 </h3>
 
-<p>
+<span>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,html,css" />
   </a>
-</p>
+</span>
 
 <h3>
   Backend
 </h3>
 
-<p>
+
+<span>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,py" />
   </a>
-</p>
+</span>
 
 <h3>
   Databases
