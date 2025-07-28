@@ -7,14 +7,14 @@
 
 <h4 align="center"> I'm a passionate full-stack developer from Delhi, India with a love for building beautiful, functional, and scalable web applications. I enjoy turning complex problems into simple, elegant solutions. </h4>
 
-🌱 I’m currently learning various technologies.
+<h2>🌱 I’m currently learning various technologies.</h2>
 
-👯 I’m looking to collaborate on open-source projects related to on MCP and new Age AI developement.
+<h2>👯 I’m looking to collaborate on open-source projects related to on MCP and new Age AI developement.</h2>
 
-📫 How to reach me: kartavyayadavv@gmail.com or on LinkedIn.
+<h2>📫 How to reach me: kartavyayadavv@gmail.com or on LinkedIn.</h2>
 
-<h2> 🛠️ My Tech Stack </h2>
-Here are some of the technologies I've been working with recently:
+<h3 align="center"> 🛠️ My Tech Stack </h3>
+<h2>Here are some of the technologies I've been working with recently:</h2>
 
 <h3>
   Frontend
