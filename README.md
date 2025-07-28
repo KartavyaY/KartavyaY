@@ -13,44 +13,44 @@
 
 📫 How to reach me: kartavyayadavv@gmail.com or on LinkedIn.
 
-🛠️ My Tech Stack
+<h2> 🛠️ My Tech Stack </h2>
 Here are some of the technologies I've been working with recently:
 
-<h3 align = "center">
+<h3>
   Frontend
 </h3>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,html,css" />
   </a>
 </p>
 
-<h3 align = "center">
+<h3>
   Backend
 </h3>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,py" />
   </a>
 </p>
 
-<h3 align = "center">
+<h3>
   Databases
 </h3>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
   </a>
 </p>
 
-<h3 align = "center">
+<h3>
   DevOps & Tools
 </h3>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,jenkins,vim,postman,c,java" />
   </a>
